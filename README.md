@@ -1,2 +1,2 @@
 # Linux-Kernel-Modules
-Some modules to linux kernel.
+Some modules for linux kernel.
